@@ -1,6 +1,6 @@
 # School 21
 
-![21 Logo](files/imgs/21-logo.svg)
+![21 Logo](files/imgs/21-logo.png)
 
 ## My Projects
 
