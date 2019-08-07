@@ -1,15 +1,3 @@
-[submodule "libft"]
-	path = libft
-	url = https://github.com/seryogin17/libft.git
-[submodule "get_next_line"]
-	path = get_next_line
-	url = https://github.com/seryogin17/get_next_line.git
-[submodule "fillit"]
-	path = fillit
-	url = https://github.com/seryogin17/fillit.git
-[submodule "push-swap"]
-	path = push-swap
-	url = https://github.com/seryogin17/push-swap.git
 [submodule "projects"]
 	path = projects
 	url = https://github.com/seryogin17/libft.git
