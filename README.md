@@ -8,6 +8,6 @@
 - [X] [Get_Next_Line](https://github.com/seryogin17/get_next_line)
 - [X] [Fillit](https://github.com/seryogin17/fillit)
 - [X] [ft_printf](https://github.com/seryogin17/ft_printf)
-- [ ] Push_swap
+- [X] [Push_swap](https://github.com/seryogin17/push-swap)
 - [ ] Lem_in
 - [ ] Corewar
