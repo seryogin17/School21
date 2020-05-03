@@ -9,5 +9,5 @@
 - [X] [Fillit](https://github.com/seryogin17/fillit)
 - [X] [ft_printf](https://github.com/seryogin17/ft_printf)
 - [X] [Push_swap](https://github.com/seryogin17/push-swap)
-- [ ] Lem_in
-- [ ] Corewar
+- [X] Lem_in
+- [X] Corewar
